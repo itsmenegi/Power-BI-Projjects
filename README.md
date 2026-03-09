@@ -21,8 +21,7 @@ It helps understand sales trends, product performance, and customer behavior.
 ## Files Included
 
 * E-Commerce Sales Dashboard.pbix
-* Dataset (Excel)
-* Dashboard screenshot
+* Dashboard.png
 
 ## Author
 
